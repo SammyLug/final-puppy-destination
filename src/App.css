@@ -40,3 +40,31 @@
 .read-the-docs {
   color: #888;
 }
+
+.player-card {
+  border: purple solid 2px;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.player-card img {
+  max-width: 300px;
+}
+
+.player-card button {
+  background-color: grey;
+  margin: 10px;
+}
+
+header {
+  background-color: darkcyan;
+  padding-top: 20px;
+  height: 300px;
+  
+}
+
+header a {
+  color: navy;
+  margin: 20px;
+}
